@@ -1,11 +1,15 @@
+remote_theme: huxpro/huxpro.github.io
+
 # Site settings
 title: 똥띠 Blog
 SEOTitle: datascience | 똥띠 Blog
 #header-img: img/home-bg.jpg
 email: kei99134.g@gmail.com
 description: "정리"
-#url: "https://huangxuan.me"              # your host, for absolute URL
-#baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://dhahn-dev.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+
 
 # Publish posts or collection documents with a future date.
 future: true
