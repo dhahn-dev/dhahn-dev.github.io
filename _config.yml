@@ -3,7 +3,7 @@ remote_theme: huxpro/huxpro.github.io
 # Site settings
 title: 똥띠 Blog
 SEOTitle: datascience | 똥띠 Blog
-#header-img: img/home-bg.jpg
+header-img: img/home-bg.jpg
 email: kei99134.g@gmail.com
 description: "정리"
 url: "https://dhahn-dev.github.io"              # your host, for absolute URL
