@@ -100,7 +100,6 @@ vocab의 value는 빈도수로 'low'가 5번, 'lower'가 2번 등장
 
 
 ```python
-
 import re, collections
 
 def get_stats(vocab):
@@ -110,7 +109,9 @@ def get_stats(vocab):
         for i in range(len(symbols)-1):
             pairs[symbols[i],symbols[i+1]] += freq
     return pairs
+```
 
+```python
 def merge_vocab(pair, v_in):
     v_out = {}
     bigram = re.escape(' '.join(pair))
