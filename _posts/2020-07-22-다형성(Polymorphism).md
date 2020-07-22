@@ -58,7 +58,7 @@ tags: Java, OOP
     protected 멤버는 같은 패키지에 속하는 클래스와 다른 패키지에 소갛는 자식 클래스에서만 접근 가능
 
 
-![접근 제어자의 접근 범위](https://github.com/dhahn-dev/dhahn-dev.github.io/tree/master/img/2020-07-16/java_accessmodifier.png)
+![접근 제어자의 접근 범위](/img/2020-07-22/java_accessmodifier.png)
     
 
 

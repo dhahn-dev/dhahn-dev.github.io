@@ -100,6 +100,7 @@ vocab의 value는 빈도수로 'low'가 5번, 'lower'가 2번 등장
 
 
 ```python
+
 import re, collections
 
 def get_stats(vocab):
@@ -134,6 +135,7 @@ for i in range(num_merges):
     print(best)
 
 print(vocab)
+
 ```
 
 
