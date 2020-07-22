@@ -98,7 +98,7 @@ Character는 기본 subword units이며, for loop에서 빈도수가 가장 많�
 
 vocab의 value는 빈도수로 'low'가 5번, 'lower'가 2번 등장
 
->
+
 ```python
 import re, collections
 
